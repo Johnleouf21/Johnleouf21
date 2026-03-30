@@ -182,13 +182,13 @@ Full-stack logistics management. 170+ commits. Production-grade freight operatio
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Johnleouf21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4810FF&icon_color=4810FF&text_color=858585&ring_color=4810FF&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-66ns1lt9f-johnleouf21s-projects.vercel.app/api?username=Johnleouf21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4810FF&icon_color=4810FF&text_color=858585&ring_color=4810FF&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Johnleouf21&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4810FF&fire=4810FF&currStreakLabel=4810FF&sideLabels=858585&dates=858585&stroke=858585" height="165"/>
 
 </div>
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Johnleouf21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4810FF&text_color=858585&langs_count=10&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-66ns1lt9f-johnleouf21s-projects.vercel.app/api/top-langs/?username=Johnleouf21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4810FF&text_color=858585&langs_count=10&include_all_commits=true&count_private=true" height="165"/>
 
 </div>
 
