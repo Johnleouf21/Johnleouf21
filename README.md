@@ -196,7 +196,7 @@ Full-stack logistics management. 170+ commits. Production-grade freight operatio
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Johnleouf21&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=Johnleouf21&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15&v=2" width="100%"/>
 
 </div>
 
